@@ -5,8 +5,9 @@
 
 /*--I dont know how to link to local images, and with the url i cant get it to fit-->*/
 
+
 .headerblok{
-  background-image: url("https://s3.amazonaws.com/codecademy-content/programs/freelance-one/broadway/images/the-flatiron-building.png");
+  background: url(../resources/the-flatiron-building.png)
 }
 p{
   font-size: 14px;
@@ -49,9 +50,4 @@ p{
 .copy{
   font-size: 11px;
   text-align: left;
-}
-
-#navfooter{
-  font-size: 12px;
-  color: red;
 }
